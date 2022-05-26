@@ -1,2 +1,2 @@
 #!/bin/bash
-hello.txt
+> ls-hello.txt
